@@ -1,0 +1,207 @@
+{
+ "meow1": {
+  "src": "Mixkit",
+  "title": "Sweet kitty meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/93/93-preview.mp3"
+ },
+ "meow2": {
+  "src": "Mixkit",
+  "title": "Cartoon kitty begging meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/92/92-preview.mp3"
+ },
+ "meow3": {
+  "src": "Mixkit",
+  "title": "Cartoon little cat meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/91/91-preview.mp3"
+ },
+ "meow4": {
+  "src": "Mixkit",
+  "title": "Little cat attention meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/86/86-preview.mp3"
+ },
+ "meow5": {
+  "src": "Mixkit",
+  "title": "Domestic cat hungry meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/45/45-preview.mp3"
+ },
+ "meowangry": {
+  "src": "Mixkit",
+  "title": "Angry cartoon kitty meow",
+  "url": "https://assets.mixkit.co/active_storage/sfx/94/94-preview.mp3"
+ },
+ "purr": {
+  "src": "Mixkit",
+  "title": "Big wild cat long purr",
+  "url": "https://assets.mixkit.co/active_storage/sfx/96/96-preview.mp3"
+ },
+ "bee": {
+  "src": "Mixkit",
+  "title": "Bee buzz",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1926/1926-preview.mp3"
+ },
+ "bugrun": {
+  "src": "Mixkit",
+  "title": "Cartoon insect running fast",
+  "url": "https://assets.mixkit.co/active_storage/sfx/37/37-preview.mp3"
+ },
+ "buzz": {
+  "src": "Mixkit",
+  "title": "Cartoon insect buzzing",
+  "url": "https://assets.mixkit.co/active_storage/sfx/31/31-preview.mp3"
+ },
+ "buzzq": {
+  "src": "Mixkit",
+  "title": "Quick insect buzz",
+  "url": "https://assets.mixkit.co/active_storage/sfx/33/33-preview.mp3"
+ },
+ "buglaugh": {
+  "src": "Mixkit",
+  "title": "Cartoon insect buzz laugh",
+  "url": "https://assets.mixkit.co/active_storage/sfx/36/36-preview.mp3"
+ },
+ "cricket": {
+  "src": "Mixkit",
+  "title": "Single cricket screech",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1780/1780-preview.mp3"
+ },
+ "pop": {
+  "src": "Mixkit",
+  "title": "Long pop",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2358/2358-preview.mp3"
+ },
+ "bubble": {
+  "src": "Mixkit",
+  "title": "Bubble pop up alert",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2357/2357-preview.mp3"
+ },
+ "pops": {
+  "src": "Mixkit",
+  "title": "Silly pop cluster",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2359/2359-preview.mp3"
+ },
+ "boing": {
+  "src": "Mixkit",
+  "title": "Boing hit sound",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2894/2894-preview.mp3"
+ },
+ "whoosh": {
+  "src": "Mixkit",
+  "title": "Cinematic whoosh fast transition",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3"
+ },
+ "whoosh2": {
+  "src": "Mixkit",
+  "title": "Fast whoosh transition",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1490/1490-preview.mp3"
+ },
+ "sparkle": {
+  "src": "Mixkit",
+  "title": "Magic sparkle whoosh",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2350/2350-preview.mp3"
+ },
+ "dham": {
+  "src": "Mixkit",
+  "title": "Movie trailer epic impact",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2908/2908-preview.mp3"
+ },
+ "dhamdrum": {
+  "src": "Mixkit",
+  "title": "Hard horror hit drum",
+  "url": "https://assets.mixkit.co/active_storage/sfx/565/565-preview.mp3"
+ },
+ "zoomhit": {
+  "src": "Mixkit",
+  "title": "Quick zoom impact",
+  "url": "https://assets.mixkit.co/active_storage/sfx/772/772-preview.mp3"
+ },
+ "thunder": {
+  "src": "Mixkit",
+  "title": "Fast thunder impact",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1279/1279-preview.mp3"
+ },
+ "page": {
+  "src": "Mixkit",
+  "title": "Page turn single",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1104/1104-preview.mp3"
+ },
+ "paperslide": {
+  "src": "Mixkit",
+  "title": "Paper slide",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1530/1530-preview.mp3"
+ },
+ "horn": {
+  "src": "Mixkit",
+  "title": "Happy party horn sound",
+  "url": "https://assets.mixkit.co/active_storage/sfx/530/530-preview.mp3"
+ },
+ "cheer": {
+  "src": "Mixkit",
+  "title": "Happy birthday crowd cheer",
+  "url": "https://assets.mixkit.co/active_storage/sfx/974/974-preview.mp3"
+ },
+ "blow": {
+  "src": "Mixkit",
+  "title": "Person's mouth blowing",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2661/2661-preview.mp3"
+ },
+ "stomp": {
+  "src": "Mixkit",
+  "title": "Giant monster footstep",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1974/1974-preview.mp3"
+ },
+ "kiss": {
+  "src": "Mixkit",
+  "title": "Cartoon friendly kiss",
+  "url": "https://assets.mixkit.co/active_storage/sfx/2194/2194-preview.mp3"
+ },
+ "click": {
+  "src": "Mixkit",
+  "title": "Plastic bubble click",
+  "url": "https://assets.mixkit.co/active_storage/sfx/1124/1124-preview.mp3"
+ },
+ "badumtss": {
+  "src": "Mixkit",
+  "title": "Drum joke accent",
+  "url": "https://assets.mixkit.co/active_storage/sfx/579/579-preview.mp3"
+ },
+ "ding": {
+  "src": "Mixkit",
+  "title": "Toy drums and bell ding",
+  "url": "https://assets.mixkit.co/active_storage/sfx/560/560-preview.mp3"
+ },
+ "pspsps": {
+  "src": "Freesound CC0",
+  "title": "Pspsps (#848679)",
+  "url": "https://cdn.freesound.org/previews/848/848679_71257-hq.mp3"
+ },
+ "psst": {
+  "src": "Freesound CC0",
+  "title": "psst.wav (#377744)",
+  "url": "https://cdn.freesound.org/previews/377/377744_6769439-hq.mp3"
+ },
+ "pingpong": {
+  "src": "Freesound CC0",
+  "title": "Ping Pong 2 (#785060)",
+  "url": "https://cdn.freesound.org/previews/785/785060_16787631-hq.mp3"
+ },
+ "pingdrop": {
+  "src": "Freesound CC0",
+  "title": "Dropping ping pong ball on table 2 (#414461)",
+  "url": "https://cdn.freesound.org/previews/414/414461_1738686-hq.mp3"
+ },
+ "growl": {
+  "src": "Freesound CC0",
+  "title": "Bear Angry Growl (#763026)",
+  "url": "https://cdn.freesound.org/previews/763/763026_1764719-hq.mp3"
+ },
+ "cassette": {
+  "src": "Freesound CC0",
+  "title": "cassette_being_inserted_into_a_deck (#826353)",
+  "url": "https://cdn.freesound.org/previews/826/826353_8432168-hq.mp3"
+ },
+ "stamp": {
+  "src": "Freesound CC0",
+  "title": "es-stamp.wav (#448474)",
+  "url": "https://cdn.freesound.org/previews/448/448474_9090982-hq.mp3"
+ }
+}
